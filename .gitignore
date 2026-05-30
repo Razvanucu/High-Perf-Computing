@@ -1,0 +1,74 @@
+# =========================
+# Visual Studio 2022
+# =========================
+
+# Build results
+[xX]64/
+[xX]86/
+build/
+out/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# MSBuild
+*.tlog
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ipdb
+*.ilk
+*.log
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build system files
+*.ncb
+*.opensdf
+*.sdf
+
+# CMake (if used inside VS)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# =========================
+# Executables / Libraries
+# =========================
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# =========================
+# Logs / temp
+# =========================
+*.log
+*.tmp
+*.bak
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Optional: ReSharper / Rider
+# =========================
+_ReSharper*/
+*.DotSettings.user
